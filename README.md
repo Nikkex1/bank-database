@@ -44,7 +44,7 @@ Depending on the purpose of use, the following options are available:
 		- DBeaver is available for free: https://dbeaver.io/
 ## Example Queries
 
-> [!info]
+> [!IMPORTANT]
 > The following queries are based on the AI-generated mock data.
 
 Check the number of customers and their average account balances by customer type:
